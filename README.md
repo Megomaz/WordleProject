@@ -242,3 +242,8 @@ function revealWord(guess) {
     100% { transform: scaleY(1); }
 }
 ```
+
+## Final image
+This image showcases the completed Wordle Game interface, illustrating the user experience and how players interact with the game. It features the grid layout for guesses, color indicators for letter correctness, and the overall design aesthetic that enhances gameplay. The visual elements demonstrate the functionality and style implemented throughout the project.
+
+<img src="https://github.com/user-attachments/assets/f1f49e37-88c6-4d7d-99d1-d48029adc644" alt="Description of image" width="400" />
